@@ -106567,6 +106567,23 @@
     "collection": "brands"
   },
   {
+    "slug": "mojang",
+    "title": "Mojang",
+    "aliases": [],
+    "hex": "000000",
+    "categories": [
+      "Gaming",
+      "Platform"
+    ],
+    "variants": {
+      "default": "/icons/mojang/default.svg"
+    },
+    "license": "MIT",
+    "url": "https://www.minecraft.net/",
+    "dateAdded": "2026-03-07",
+    "collection": "brands"
+  },
+  {
     "slug": "xcode",
     "title": "Xcode",
     "aliases": [],
