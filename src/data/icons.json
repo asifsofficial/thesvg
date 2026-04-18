@@ -108648,5 +108648,47 @@
     "url": "https://filagram.com",
     "collection": "brands",
     "dateAdded": "2026-04-03"
+  },
+  {
+    "slug": "lutece",
+    "title": "Lutece",
+    "aliases": [],
+    "hex": "0527D2",
+    "categories": [
+      "CMS",
+      "Framework",
+      "Non-profit"
+    ],
+    "variants": {
+      "default": "/icons/lutece/default.svg",
+      "mono": "/icons/lutece/mono.svg"
+    },
+    "license": "BSD-3-Clause",
+    "url": "https://lutece.paris.fr",
+    "collection": "brands",
+    "dateAdded": "2026-04-18"
+  },
+  {
+    "slug": "pedi-app",
+    "title": "Pedi App",
+    "aliases": [
+      "Pedi",
+      "PediApp"
+    ],
+    "hex": "DD1600",
+    "categories": [
+      "Transportation",
+      "Booking",
+      "Mobile App"
+    ],
+    "variants": {
+      "default": "/icons/pedi-app/default.svg",
+      "wordmark": "/icons/pedi-app/wordmark.svg",
+      "wordmarkDark": "/icons/pedi-app/wordmarkDark.svg"
+    },
+    "license": "brand-use",
+    "url": "https://pedi.ph",
+    "collection": "brands",
+    "dateAdded": "2026-04-18"
   }
 ]
