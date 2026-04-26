@@ -106584,6 +106584,23 @@
     "collection": "brands"
   },
   {
+    "slug": "rewarble",
+    "title": "Rewarble",
+    "aliases": [],
+    "hex": "000000",
+    "categories": [
+      "Gift Card",
+      "Platform"
+    ],
+    "variants": {
+      "default": "/icons/rewarble/default.svg"
+    },
+    "license": "MIT",
+    "url": "https://rewarble.com/",
+    "dateAdded": "2026-03-07",
+    "collection": "brands"
+  },
+  {
     "slug": "xcode",
     "title": "Xcode",
     "aliases": [],
@@ -108523,7 +108540,9 @@
     "title": "tsdown",
     "aliases": [],
     "hex": "ff7e17",
-    "categories": ["Developer Tools"],
+    "categories": [
+      "Developer Tools"
+    ],
     "variants": {
       "default": "/icons/tsdown/default.svg"
     },
@@ -108536,9 +108555,14 @@
   {
     "slug": "uxuy",
     "title": "UXUY",
-    "aliases": ["uxuy-logo-black"],
+    "aliases": [
+      "uxuy-logo-black"
+    ],
     "hex": "FE4200",
-    "categories": ["Web3", "DEX"],
+    "categories": [
+      "Web3",
+      "DEX"
+    ],
     "variants": {
       "default": "/icons/uxuy/default.svg"
     },
@@ -108551,9 +108575,16 @@
   {
     "slug": "timesheet",
     "title": "Timesheet",
-    "aliases": ["timesheet-logo", "timesheet.io"],
+    "aliases": [
+      "timesheet-logo",
+      "timesheet.io"
+    ],
     "hex": "ff8800",
-    "categories": ["SaaS", "Productivity", "Business"],
+    "categories": [
+      "SaaS",
+      "Productivity",
+      "Business"
+    ],
     "variants": {
       "default": "/icons/timesheet/default.svg"
     },
@@ -108567,7 +108598,9 @@
     "title": "Kvant System",
     "aliases": [],
     "hex": "00C28D",
-    "categories": ["Cybersecurity"],
+    "categories": [
+      "Cybersecurity"
+    ],
     "variants": {
       "default": "/icons/kvant-system/default.svg"
     },
@@ -108582,7 +108615,10 @@
     "title": "Filagram",
     "aliases": [],
     "hex": "00f0c0",
-    "categories": ["Software", "File Sharing"],
+    "categories": [
+      "Software",
+      "File Sharing"
+    ],
     "variants": {
       "default": "/icons/filagram/default.svg",
       "dark": "/icons/filagram/dark.svg",
