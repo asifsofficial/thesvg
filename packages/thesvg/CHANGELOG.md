@@ -1,5 +1,26 @@
 # thesvg
 
+## 2.1.5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @thesvg/icons@2.1.5
+
+## 2.1.4
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @thesvg/icons@2.1.4
+
+## 2.1.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @thesvg/icons@2.1.3
+
 ## 2.1.2
 
 ### Patch Changes

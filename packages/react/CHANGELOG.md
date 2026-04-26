@@ -1,5 +1,23 @@
 # @thesvg/react
 
+## 2.1.5
+
+### Patch Changes
+
+- fix: mark Roborock and FPT Play licenses as Proprietary ([#112](https://github.com/glincker/thesvg/issues/112))
+
+## 2.1.4
+
+### Patch Changes
+
+- feat: add Pedi App icon ([#99](https://github.com/glincker/thesvg/issues/99))
+
+## 2.1.3
+
+### Patch Changes
+
+- feat: add requested icons + fix Raycast extension ([#93](https://github.com/glincker/thesvg/issues/93))
+
 ## 2.1.2
 
 ### Patch Changes
